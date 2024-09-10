@@ -6,7 +6,7 @@ PS-3 Syrus Hackathon - Empowering Alzheimer's Support through Innovation
 
 <p id="description">CogniCare helps explore many ways to fight against Alzheimer's disease and all other dementia. Together, we stand strong. Get involved with CogniCare Now!</p>
 
-<h2>🧐 Features</h2> 
+<h2>🧐 Features</h2>
 
 Here are some of the project's best features:
 
@@ -31,6 +31,3 @@ Here are some of the project's best features:
 <h4> Additional Tools and Libraries: </h4>
 
 <a href="https://calendar.google.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8" alt="google calender" width="40" height="40"/></a> <a href="https://www.twilio.com/en-us" target="_blank" rel="noreferrer"> <img src="https://backendless.com/wp-content/uploads/2020/04/twilio-logo.png" alt="twilio" width="90" height="40"/></a> <a href="https://www.videosdk.live/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsg5MUODrxg51WQbau83opeeqKoWPEw-2BQ&usqp=CAU" alt="twilio" width="40" height="40"/></a>
-
-<h1> Screenshots </h1>
-<img src="https://drive.google.com/file/d/1HTzfHQyoMzFUZR2AzDy3RQyI8qhfiytg/view?usp=drive_link" width="150px"/>
